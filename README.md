@@ -1,2 +1,3 @@
-# GraphQL
-Easysnap
+# GraphQL Tutorial
+
+Easysnap Project
